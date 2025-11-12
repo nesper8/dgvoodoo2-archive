@@ -6,7 +6,7 @@ To host the last few builds of dgvoodoo2 that were supported on linux
 - 2.61
 - 2.78
 - 2.79.3
-- 2.81.3 **(DO NO USE)**
+- 2.81.3 **(PERFORMANCE ISSUES)**
 
 # Why?
 
