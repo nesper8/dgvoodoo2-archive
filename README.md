@@ -1,4 +1,4 @@
-# dgvoodoo2-arhive
+# dgvoodoo2-archive
 
 To host the last few builds of dgvoodoo2 that were supported on linux
 
