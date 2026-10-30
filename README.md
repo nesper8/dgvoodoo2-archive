@@ -7,6 +7,7 @@ To host the last few builds of dgvoodoo2 that were supported on linux
 - 2.78
 - 2.79.3
 - 2.81.3 **(PERFORMANCE ISSUES)**
+- 2.87.6 **(USE PATCHER)**
 
 # Why?
 
@@ -19,3 +20,6 @@ To Quote Dege
 > then and only then you will ditch dgVoodoo, the "propietary shit", independently on what the quality of your crap is like
 > 
 > but, in the meantime, at least anybody can read into how much you're being loved
+
+# Patcher
+Use https://github.com/cloakedkeys/dgvoodoo-wine-fix to patch
